@@ -32,6 +32,6 @@
     "passport-local": "^1.0.0",
     "path": "^0.12.7",
     "rand-token": "^0.4.0",
-    "sequelize": "^5.8.9"
+    "sequelize": "^5.15.1"
   }
 }
